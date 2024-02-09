@@ -1,15 +1,15 @@
  <h1 align="center">Hi 👋, I'm Tajul Islam Towsif</h1>
 <h3 align="center">A passionate fullstack developer from Bangladesh</h3>
 
-- 🔭 I’m currently working on **Login System**
+- 🔭 I’m currently working on **Backend Project**
 
-- 🌱 I’m currently learning **Nodejs**
+- 🌱 I’m currently learning **TyepScript**
 
 - 🤝 I’m looking for help with **JavaScript**
 
 - 👨‍💻 All of my projects are available at [https://64775eb6b869e333200c2aef--melodic-strudel-dcc6c5.netlify.app/?fbclid=IwAR1Wu35ei7WsGIrW20T3xHrveZO0rWvSMgr6lEIXQWxUGVOg8yMbiHaJNC0](https://64775eb6b869e333200c2aef--melodic-strudel-dcc6c5.netlify.app/?fbclid=IwAR1Wu35ei7WsGIrW20T3xHrveZO0rWvSMgr6lEIXQWxUGVOg8yMbiHaJNC0)
 
-- 💬 Ask me about **reactjs,reduxtolkit,Nodejs,expressjs,mongoodb**
+- 💬 Ask me about **reactjs,nextjs,reduxtolkit,Nodejs,expressjs,mongoodb**
 
 - 📫 How to reach me **towsifaslamctg143@gmail.com**
 
